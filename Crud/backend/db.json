@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Geladeira",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Televisao",
+      "price": 5000.89
+    },
+    {
+      "name": "Lapis ",
+      "price": "9.99",
+      "id": 4
+    },
+    {
+      "name": "Televisão ",
+      "price": "7777",
+      "id": 7
+    },
+    {
+      "name": "deu certo :)",
+      "price": "5.999",
+      "id": 9
+    }
+  ]
+}
